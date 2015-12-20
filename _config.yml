@@ -1,7 +1,7 @@
 name: BabelJockey
 favicon: null
-layout_spectrum: 0.30559466243721545
-typography_spectrum: 0.25579719175584614
+layout_spectrum: 0.90449
+typography_spectrum: 0.24251
 title: BabelJockey
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.009455368621274829
+    - '#000000'
+    - '#d4d7c2'
+    - '#95a8a4'
+    - '#50401f'
+    - '#8f6e4b'
+  brandStrength: 0
   lightness: 0.6632880880497396
-  saturation: 0.19668282801285386
+  saturation: 0.1875
   rhythmicContrast: 0.9455776324030012
 purpose: []
