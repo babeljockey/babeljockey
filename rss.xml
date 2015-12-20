@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BabelJockey]]></title>
+        <description><![CDATA[BabelJockey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 00:35:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First prize in The Browser’s Golden Giraffe Awards for 2015]]></title>
+            <description><![CDATA[<article><h1>First prize in The Browser’s Golden Giraffe Awards for 2015</h1><p>A great article about a tragic figure in the early history of cybernetics</p></article>]]></description>
+            <link>undefinedfirst-prize-in-the-browsers-golden-giraffe-awards-for-2015/index.html</link>
+            <guid isPermaLink="false">e778f3dc-2ca4-45ea-8aea-5379f76979c9</guid>
+            <pubDate>Sun, 20 Dec 2015 00:35:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
