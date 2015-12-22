@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.sciencedaily.com'
-  name: ScienceDaily
-  favicon: 'http://www.sciencedaily.com/favicon.ico'
-  domain: www.sciencedaily.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - species
   - gotelli
@@ -18,17 +16,21 @@ keywords:
   - climate
   - modern
 description: 'A new analysis of the fossil record shows that a deep pattern in the structure of plant and animal communities remained the same for 300 million years. Then, 6,000 years ago, the pattern was disrupted--at about the same time that people started farming in North America and populations rose.'
-inLanguage: en
+datePublished: '2015-12-22T05:16:08.934Z'
+dateModified: '2015-12-22T05:15:00.193Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.sciencedaily.com/releases/2015/12/151217143546.htm'
 title: Great Anthropocene article
-datePublished: '2015-12-22T05:11:18.914Z'
-dateModified: '2015-12-22T05:07:07.184Z'
 sourcePath: _posts/2015-12-22-great-anthropocene-article.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: ScienceDaily
+  domain: www.sciencedaily.com
+  url: 'http://www.sciencedaily.com'
+  favicon: 'http://www.sciencedaily.com/favicon.ico'
+url: great-anthropocene-article/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
