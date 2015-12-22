@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://nautil.us'
-  name: Nautilus
-  favicon: 'http://nautil.us/favicon.ico'
-  domain: m.nautil.us
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - pitts
   - mcculloch
@@ -18,17 +16,21 @@ keywords:
   - mathematical
   - neural
 description: "Walter Pitts was used to being bullied. He'd been born into a tough family in Prohibition-era Detroit, where his father, a boiler-maker, had no trouble raising his fists to get his way. The neighborhood boys weren't much better. One afternoon in 1935, they chased him through the streets until he ducked into the local library to hide."
-inLanguage: en
+datePublished: '2015-12-22T23:56:10.790Z'
+dateModified: '2015-12-22T05:28:02.760Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://m.nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic'
 title: 'The Man Who Tried to Redeem the World with Logic - Issue 21: Information - Nautilus'
-datePublished: '2015-12-22T02:29:59.348Z'
-dateModified: '2015-12-22T00:53:03.399Z'
 sourcePath: _posts/2015-12-22-the-man-who-tried-to-redeem-the-world-with-logic-issue-21.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nautilus
+  domain: m.nautil.us
+  url: 'http://nautil.us'
+  favicon: 'http://nautil.us/favicon.ico'
+url: the-man-who-tried-to-redeem-the-world-with-logic-issue-21/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
