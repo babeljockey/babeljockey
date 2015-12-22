@@ -16,8 +16,8 @@ keywords:
   - mathematical
   - neural
 description: "Walter Pitts was used to being bullied. He'd been born into a tough family in Prohibition-era Detroit, where his father, a boiler-maker, had no trouble raising his fists to get his way. The neighborhood boys weren't much better. One afternoon in 1935, they chased him through the streets until he ducked into the local library to hide."
-datePublished: '2015-12-22T23:56:10.790Z'
-dateModified: '2015-12-22T05:28:02.760Z'
+datePublished: '2015-12-22T23:59:31.544Z'
+dateModified: '2015-12-22T23:58:42.181Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Browser's Gold Year End Award Article
+
 <article style=""><h1>The Man Who Tried to Redeem the World with Logic - Issue 21&amp;colon; Information - Nautilus</h1><p>Walter Pitts was used to being bullied&amp;period; He'd been born into a tough family in Prohibition-era Detroit&amp;comma; where his father&amp;comma; a boiler-maker&amp;comma; had no trouble raising his fists to get his way&amp;period; The neighborhood boys weren't much better&amp;period; One afternoon in 1935&amp;comma; they chased him through the streets until he ducked into the local library to hide&amp;period;</p><img src="http://static.nautil.us/5265_f127a3f714240273e254d740ed23f001.jpg" /></article>
