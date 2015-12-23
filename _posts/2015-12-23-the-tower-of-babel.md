@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-23T04:15:06.771Z'
-dateModified: '2015-12-23T04:14:18.112Z'
+datePublished: '2015-12-23T04:31:15.952Z'
+dateModified: '2015-12-23T04:30:56.752Z'
 title: The Tower Of Babel
 author: []
+sourcePath: _posts/2015-12-23-the-tower-of-babel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-the-tower-of-babel.md
-published: true
 _type: Blurb
 
 ---
