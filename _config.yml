@@ -1,6 +1,6 @@
 name: BabelJockey
 favicon: null
-layout_spectrum: 0.84905
+layout_spectrum: 0.89022
 typography_spectrum: 0.23819
 title: BabelJockey
 cta:
@@ -22,7 +22,7 @@ color:
     - '#95a8a4'
     - '#50401f'
     - '#8f6e4b'
-  brandStrength: 0.0625
+  brandStrength: 0.1875
   lightness: 0.8125
   saturation: 0.6875
   rhythmicContrast: 1
