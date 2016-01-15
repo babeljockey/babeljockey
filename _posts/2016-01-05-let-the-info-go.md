@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T01:35:25.026Z'
-dateModified: '2016-01-15T01:35:21.837Z'
+datePublished: '2016-01-15T01:35:25.320Z'
+dateModified: '2016-01-15T01:35:25.026Z'
 author: []
 title: 'Let the Info go!'
 sourcePath: _posts/2016-01-05-let-the-info-go.md
