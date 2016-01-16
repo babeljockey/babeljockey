@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'urn:uuid:ed030f87-61c2-43b9-ad3a-e76bf33a3ade'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T01:43:24.860Z'
-dateModified: '2016-01-16T01:43:20.200Z'
+datePublished: '2016-01-16T01:45:37.088Z'
+dateModified: '2016-01-16T01:45:25.095Z'
 author: []
 title: 'Let the Info go!'
 sourcePath: _posts/2016-01-05-let-the-info-go.md
@@ -18,7 +19,6 @@ publisher:
   domain: ''
   url: null
   favicon: null
-url: let-the-info-go/index.html
 _context: 'http://schema.org'
 _type: Article
 
